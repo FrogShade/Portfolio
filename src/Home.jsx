@@ -150,7 +150,7 @@ function Home() {
                   <p className='text-white text-lg text-center'>Check out my Twitter for updates and showcases of my latest Minecraft builds and creations!</p>
                 </div>
                 <div className='flex justify-center mb-4 mt-12'>
-                  <a href='https://x.com/FrogShade_'><button className='bg-sky-500 sm:w-80 w-4/5 h-10 border-0 rounded-lg text-xl text-zinc-800 hover:opacity-90'>Check</button></a>
+                  <a className='w-full text-center' href='https://x.com/FrogShade_'><button className='bg-sky-500 sm:w-80 w-4/5 h-10 border-0 rounded-lg text-xl text-zinc-800 hover:opacity-90'>Check</button></a>
                 </div>               
               </div>
               <div className='w-11/12 sm:w-[500px] h-max sm:h-64 lg:mb-0 mb-8 lg:ml-8 bg-zinc-800 border-0 rounded-xl'>                
@@ -159,7 +159,7 @@ function Home() {
                   <p className='text-white text-lg text-center'>Discover the visual side of my Minecraft creations, designs on Instagram, with close-up shots and detailed views of my latest builds!</p>
                 </div>
                 <div className='flex justify-center mb-4 mt-6'>
-                  <a href='https://www.instagram.com/frog.shade/'><button className='bg-gradient-to-r from-[#f9ce34] to-[#ee2a7b] sm:w-80 w-4/5 h-10 border-0 rounded-lg text-xl text-zinc-800 hover:opacity-90'>Check</button></a>
+                  <a className='w-full text-center' href='https://www.instagram.com/frog.shade/'><button className='bg-gradient-to-r from-[#f9ce34] to-[#ee2a7b] sm:w-80 w-4/5 h-10 border-0 rounded-lg text-xl text-zinc-800 hover:opacity-90'>Check</button></a>
                 </div> 
               </div>
           </div>
