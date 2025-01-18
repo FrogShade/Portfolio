@@ -93,7 +93,7 @@ function Home() {
             </div>          
           </nav>
           {nav && (
-            <div className='w-full flex flex-col text-white items-center md:hidden justify-center h-40 bg-zinc-900 bg-opacity-50 -mb-32 mt-6'>
+            <div className='w-full flex flex-col text-white items-center md:hidden justify-center h-40 bg-zinc-900 bg-opacity-50 -mb-24 mt-6'>
               <div className='w-full flex flex-col mb-2 items-center  cursor-pointer hover:text-green-200 group/item'>
               <div className='flex items-center' onClick={() => {navigate('/')}}>
                 <AiOutlineHome className='text-2xl font-bold mr-1' />
