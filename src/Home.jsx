@@ -31,6 +31,9 @@ function Home() {
     },
     {
       img: b4,
+    },
+    {
+      img: b5,
     }
   ])
 
