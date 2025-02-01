@@ -8,7 +8,7 @@ import b2 from './assets/b2.png'
 import b3 from './assets/b3.png'
 import b4 from './assets/b4.png'
 import b5 from './assets/b5.png'
-import b6 from './assets/b5.png'
+import b6 from './assets/b6.png'
 import { AiOutlineHome } from "react-icons/ai";
 import { AiOutlineUser } from "react-icons/ai";
 import { MdOutlineArrowForwardIos } from "react-icons/md";
